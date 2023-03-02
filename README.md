@@ -1,4 +1,16 @@
-### Hi there 👋
+# Alexis Magallon
+
+## Major
+Visual Communication Design at Eastern Washington University
+
+## Skills
+* Apex Goat
+* Illustration
+* Cooking
+
+## Superpower
+* Nap ability
+* Art of Vanishing
 
 <!--
 **amagallon41/amagallon41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
