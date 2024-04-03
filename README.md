@@ -10,6 +10,8 @@ Visual Communication Design at Eastern Washington University
 * Adobe Suite (InDesign, Premiere, Lightroom, Illustrator, Photoshop, After Effects)
 * Interactive Web (HTML, CSS, JS)
 * Microsoft 365 (Word, PowerPoint, Excel, Outlook)
+* Figma
+* Milanote
 
 
 <!--Include in Portfolio (Insporation, Process, Drafts, Final, Summary)
