@@ -1,11 +1,21 @@
 <!-- Swap profile picture for a professional photo -->
 # Alexis Magallon
+Graphic Designer
+
+## Bio
+With a major in Visual Communication Design from Eastern Washington University, I am a seasoned Graphic Designer with a passion for creating compelling visual narratives. My expertise spans across various design tools including Adobe Suite (InDesign, Premiere, Lightroom, Illustrator, Photoshop, After Effects), Interactive Web (HTML, CSS, JS), Microsoft 365 (Word, PowerPoint, Excel, Outlook), Figma, and Milanote.
+
+I have a proven track record in creating digital and print illustrations, managing social media platforms, designing books, and crafting personal branding strategies. My portfolio showcases a blend of creativity, technical skills, and a keen eye for detail.
+
+Currently, I am working with diverse clients such as Magallon Contracting, 4T Acres Farm, and The Basement Night Club, helping them to communicate their unique stories through design.
+
+Feel free to reach out to me for any design needs or collaborations.
 
 <!-- Include Web Certificate -->
 ## Major
-Visual Communication Design at Eastern Washington University
+Bachelor's Degree in Visual Communication Design at Eastern Washington University
 
-<!-- Resume Adjectives? -->
+<!-- Resume Adjectives? Add Badges for programs-->
 ## Skills
 * Adobe Suite (InDesign, Premiere, Lightroom, Illustrator, Photoshop, After Effects)
 * Interactive Web (HTML, CSS, JS)
@@ -28,6 +38,7 @@ Create social media accounts and links -->
 * The Basement (Night Club)
 
 ## Contact
+* Website: 
 * Email: N/A
 * IG: N/A
 * TikTok: N/A
